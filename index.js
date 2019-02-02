@@ -5,7 +5,8 @@ if (Number.isInteger(currentAge)) {
 } else  {
 ageIsValid = false;
 }
-const randomNumber = Math.random();
+const randomNumber = Math.random()
+if random number = ;
 const randomInteger = Math.round(Math.random());
 const randomUserID = Math.round(Math.random() + 1000000001);
 
