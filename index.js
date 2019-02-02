@@ -6,10 +6,6 @@ if (Number.isInteger(currentAge)) {
 ageIsValid = false;
 }
 const randomNumber = Math.random();
-if (random number) = > 0 < 20; {
-} else  {
-ageIsValid = false;
-}
 const randomInteger = Math.round(Math.random());
 const randomUserID = Math.round(Math.random() + 1000000001);
 
